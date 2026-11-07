@@ -46,7 +46,7 @@ Design choices
 Cross-validation for model selection, so the test score is an honest estimate.
 Scaler fitted on training folds only (inside a Pipeline during CV/tuning) to avoid data leakage.
 Recall / F1 / ROC-AUC instead of accuracy because of class imbalance.
-Adjustable threshold: the business can trade precision for recall depending on the cost of losing a customer.
+Threshold analysis: the notebook shows how recall and precision change with the decision threshold, so the business can pick the trade-off that matches the cost of losing a customer.
 Project structure
 ├── churn_prediction.ipynb    # analysis, training and evaluation
 ├── app.py                    # Streamlit app
