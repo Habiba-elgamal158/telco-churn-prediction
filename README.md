@@ -2,8 +2,7 @@
 
 An end-to-end machine learning project that predicts which telecom customers are likely to cancel their subscription, so a company can target retention offers. It includes a full modeling workflow and a Streamlit web app for real-time predictions.
 
-🔗 Live demo: paste your Streamlit link here
-
+🔗 Live demo:(https://telco-churn-prediction-sytawak3bgnpumqwhbsmao.streamlit.app/)
 App screenshot
 
 Problem
