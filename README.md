@@ -12,7 +12,7 @@ Acquiring a new customer costs far more than keeping an existing one. About 26% 
 
 Dataset
 
-Telco Customer Churn (Kaggle, IBM sample data): 7,043 customers, 20 features covering demographics, services, contract and billing. The data file is not included in this repo; download it from Kaggle to run the notebook.
+Telco Customer Churn (Kaggle, IBM sample data): 7,043 customers, 19 features covering demographics, services, contract and billing. The data file is not included in this repo; download it from Kaggle to run the notebook.
 
 Results (held-out test set, 20%)
 Metric (churn class)	Score
