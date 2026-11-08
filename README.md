@@ -4,7 +4,7 @@ An end-to-end machine learning project that predicts which telecom customers are
 
 **🔗 Live demo:** [Open the app](https://telco-churn-prediction-sytawak3bgnpumqwhbsmao.streamlit.app/)
 
-![App screenshot](images/app.png)
+![App screenshot](images/app_screenshot.png)
 
 ## Problem
 
